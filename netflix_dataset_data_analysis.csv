@@ -1,0 +1,106 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description,duration_minutes
+s1,Movie,The Irishman,David Fincher,"Actor 84, Actor 143",France,"January 1, 2023",2012,TV-MA,169,"Dramas, Comedies",Enjoy this great title on Netflix!,169
+s2,Movie,Marriage Story,Martin Scorsese,"Actor 8, Actor 120",Japan,"January 1, 2020",2023,TV-14,104,"Dramas, Comedies",Enjoy this great title on Netflix!,104
+s3,Movie,Roma,David Fincher,"Actor 28, Actor 197",France,"January 1, 2015",2014,TV-MA,171,"Dramas, Comedies",Enjoy this great title on Netflix!,171
+s4,Movie,Bird Box,Martin Scorsese,"Actor 14, Actor 185",Unknown,"January 1, 2021",2013,TV-PG,123,"Dramas, Comedies",Enjoy this great title on Netflix!,123
+s5,Movie,Extraction,Unknown,"Actor 34, Actor 179",United Kingdom,"January 1, 2018",2011,PG-13,119,"Dramas, Comedies",Enjoy this great title on Netflix!,119
+s6,Movie,Glass Onion,Zack Snyder,"Actor 65, Actor 153",Japan,"January 1, 2018",2021,TV-PG,119,"Dramas, Comedies",Enjoy this great title on Netflix!,119
+s7,Movie,Don't Look Up,David Fincher,"Actor 90, Actor 109",France,"January 1, 2019",2016,TV-14,116,"Dramas, Comedies",Enjoy this great title on Netflix!,116
+s8,Movie,Red Notice,Zack Snyder,"Actor 80, Actor 117",South Korea,"January 1, 2021",2012,PG-13,108,"Dramas, Comedies",Enjoy this great title on Netflix!,108
+s9,Movie,The Adam Project,Zack Snyder,"Actor 69, Actor 162",United Kingdom,"January 1, 2023",2012,PG-13,106,"Dramas, Comedies",Enjoy this great title on Netflix!,106
+s10,Movie,Enola Holmes,Martin Scorsese,"Actor 77, Actor 157",India,"January 1, 2016",2019,TV-14,161,"Dramas, Comedies",Enjoy this great title on Netflix!,161
+s11,Movie,The Old Guard,Greta Gerwig,"Actor 11, Actor 183",Japan,"January 1, 2015",2020,R,148,"Dramas, Comedies",Enjoy this great title on Netflix!,148
+s12,Movie,6 Underground,Zack Snyder,"Actor 86, Actor 120",South Korea,"January 1, 2018",2010,TV-PG,117,"Dramas, Comedies",Enjoy this great title on Netflix!,117
+s13,Movie,Murder Mystery,Zack Snyder,"Actor 38, Actor 147",United Kingdom,"January 1, 2020",2017,PG-13,127,"Dramas, Comedies",Enjoy this great title on Netflix!,127
+s14,Movie,The Two Popes,Unknown,"Actor 16, Actor 167",India,"January 1, 2022",2012,TV-MA,135,"Dramas, Comedies",Enjoy this great title on Netflix!,135
+s15,Movie,Dolemite Is My Name,Unknown,"Actor 80, Actor 175",India,"January 1, 2023",2015,TV-14,118,"Dramas, Comedies",Enjoy this great title on Netflix!,118
+s16,Movie,Klaus,David Fincher,"Actor 43, Actor 196",France,"January 1, 2020",2019,TV-14,135,"Dramas, Comedies",Enjoy this great title on Netflix!,135
+s17,Movie,Army of the Dead,David Fincher,"Actor 90, Actor 171",Japan,"January 1, 2022",2015,TV-PG,124,"Dramas, Comedies",Enjoy this great title on Netflix!,124
+s18,Movie,The Harder They Fall,Zack Snyder,"Actor 27, Actor 118",South Korea,"January 1, 2016",2023,TV-14,144,"Dramas, Comedies",Enjoy this great title on Netflix!,144
+s19,Movie,"Tick, Tick... Boom!",Unknown,"Actor 19, Actor 167",South Korea,"January 1, 2023",2014,R,85,"Dramas, Comedies",Enjoy this great title on Netflix!,85
+s20,Movie,Hustle,Unknown,"Actor 1, Actor 177",France,"January 1, 2015",2017,TV-MA,126,"Dramas, Comedies",Enjoy this great title on Netflix!,126
+s21,Movie,Spenser Confidential,Unknown,"Actor 75, Actor 112",France,"January 1, 2016",2023,TV-14,134,"Dramas, Comedies",Enjoy this great title on Netflix!,134
+s22,Movie,The Kissing Booth,Unknown,"Actor 79, Actor 180",Spain,"January 1, 2021",2015,R,90,"Dramas, Comedies",Enjoy this great title on Netflix!,90
+s23,Movie,To All the Boys I've Loved Before,Greta Gerwig,"Actor 17, Actor 138",South Korea,"January 1, 2020",2023,TV-14,172,"Dramas, Comedies",Enjoy this great title on Netflix!,172
+s24,Movie,Always Be My Maybe,Zack Snyder,"Actor 2, Actor 130",Unknown,"January 1, 2023",2015,TV-14,81,"Dramas, Comedies",Enjoy this great title on Netflix!,81
+s25,Movie,Set It Up,Greta Gerwig,"Actor 86, Actor 190",France,"January 1, 2016",2013,R,176,"Dramas, Comedies",Enjoy this great title on Netflix!,176
+s26,Movie,El Camino,Zack Snyder,"Actor 69, Actor 135",United States,"January 1, 2016",2015,TV-14,149,"Dramas, Comedies",Enjoy this great title on Netflix!,149
+s27,Movie,Ma Rainey's Black Bottom,Unknown,"Actor 88, Actor 160",Spain,"January 1, 2022",2017,TV-MA,109,"Dramas, Comedies",Enjoy this great title on Netflix!,109
+s28,Movie,Da 5 Bloods,Unknown,"Actor 16, Actor 124",Japan,"January 1, 2022",2012,TV-PG,91,"Dramas, Comedies",Enjoy this great title on Netflix!,91
+s29,Movie,Mank,Unknown,"Actor 9, Actor 142",India,"January 1, 2015",2014,TV-MA,178,"Dramas, Comedies",Enjoy this great title on Netflix!,178
+s30,Movie,The Trial of the Chicago 7,Zack Snyder,"Actor 80, Actor 184",Japan,"January 1, 2019",2014,R,154,"Dramas, Comedies",Enjoy this great title on Netflix!,154
+s31,Movie,Pieces of a Woman,David Fincher,"Actor 4, Actor 126",France,"January 1, 2016",2021,TV-14,87,"Dramas, Comedies",Enjoy this great title on Netflix!,87
+s32,Movie,The White Tiger,Greta Gerwig,"Actor 37, Actor 109",Spain,"January 1, 2019",2012,TV-MA,93,"Dramas, Comedies",Enjoy this great title on Netflix!,93
+s33,Movie,I Care a Lot,Martin Scorsese,"Actor 39, Actor 119",Unknown,"January 1, 2016",2014,TV-MA,90,"Dramas, Comedies",Enjoy this great title on Netflix!,90
+s34,Movie,Malcolm & Marie,Greta Gerwig,"Actor 49, Actor 129",United States,"January 1, 2017",2023,R,124,"Dramas, Comedies",Enjoy this great title on Netflix!,124
+s35,Movie,Stowaway,Greta Gerwig,"Actor 91, Actor 189",Spain,"January 1, 2023",2019,R,166,"Dramas, Comedies",Enjoy this great title on Netflix!,166
+s36,Movie,Army of Thieves,David Fincher,"Actor 79, Actor 194",Japan,"January 1, 2022",2016,TV-MA,136,"Dramas, Comedies",Enjoy this great title on Netflix!,136
+s37,Movie,The Unforgivable,Martin Scorsese,"Actor 55, Actor 124",India,"January 1, 2019",2020,R,165,"Dramas, Comedies",Enjoy this great title on Netflix!,165
+s38,Movie,The Power of the Dog,Zack Snyder,"Actor 35, Actor 104",Spain,"January 1, 2015",2021,TV-PG,117,"Dramas, Comedies",Enjoy this great title on Netflix!,117
+s39,Movie,The Tinder Swindler,David Fincher,"Actor 59, Actor 184",Japan,"January 1, 2018",2023,TV-MA,101,"Dramas, Comedies",Enjoy this great title on Netflix!,101
+s40,Movie,Hustle,David Fincher,"Actor 71, Actor 129",Unknown,"January 1, 2019",2022,TV-PG,166,"Dramas, Comedies",Enjoy this great title on Netflix!,166
+s41,Movie,Spiderhead,David Fincher,"Actor 44, Actor 177",France,"January 1, 2020",2010,TV-14,111,"Dramas, Comedies",Enjoy this great title on Netflix!,111
+s42,Movie,The Gray Man,Greta Gerwig,"Actor 87, Actor 142",Japan,"January 1, 2017",2016,TV-14,113,"Dramas, Comedies",Enjoy this great title on Netflix!,113
+s43,Movie,Day Shift,Greta Gerwig,"Actor 78, Actor 159",France,"January 1, 2018",2018,TV-PG,137,"Dramas, Comedies",Enjoy this great title on Netflix!,137
+s44,Movie,Me Time,David Fincher,"Actor 7, Actor 119",Unknown,"January 1, 2019",2022,TV-14,85,"Dramas, Comedies",Enjoy this great title on Netflix!,85
+s45,Movie,Lou,Unknown,"Actor 34, Actor 189",United States,"January 1, 2022",2021,R,87,"Dramas, Comedies",Enjoy this great title on Netflix!,87
+s46,Movie,Enola Holmes 2,Martin Scorsese,"Actor 87, Actor 143",India,"January 1, 2016",2018,TV-14,134,"Dramas, Comedies",Enjoy this great title on Netflix!,134
+s47,Movie,Slumberland,Martin Scorsese,"Actor 67, Actor 146",Japan,"January 1, 2015",2010,TV-PG,102,"Dramas, Comedies",Enjoy this great title on Netflix!,102
+s48,Movie,The Swimmers,Martin Scorsese,"Actor 17, Actor 137",Unknown,"January 1, 2016",2014,TV-14,144,"Dramas, Comedies",Enjoy this great title on Netflix!,144
+s49,Movie,Troll,Martin Scorsese,"Actor 57, Actor 181",France,"January 1, 2019",2020,PG-13,88,"Dramas, Comedies",Enjoy this great title on Netflix!,88
+s50,Movie,Guillermo del Toro's Pinocchio,Zack Snyder,"Actor 78, Actor 122",India,"January 1, 2020",2017,R,82,"Dramas, Comedies",Enjoy this great title on Netflix!,82
+s51,Movie,The Pale Blue Eye,Greta Gerwig,"Actor 2, Actor 162",South Korea,"January 1, 2023",2020,TV-14,138,"Dramas, Comedies",Enjoy this great title on Netflix!,138
+s52,Movie,You People,Zack Snyder,"Actor 84, Actor 136",Unknown,"January 1, 2019",2020,R,133,"Dramas, Comedies",Enjoy this great title on Netflix!,133
+s53,Movie,Your Place or Mine,David Fincher,"Actor 61, Actor 161",India,"January 1, 2022",2017,TV-14,100,"Dramas, Comedies",Enjoy this great title on Netflix!,100
+s54,Movie,Luther: The Fallen Sun,Martin Scorsese,"Actor 64, Actor 102",France,"January 1, 2023",2015,PG-13,107,"Dramas, Comedies",Enjoy this great title on Netflix!,107
+s55,Movie,Murder Mystery 2,David Fincher,"Actor 61, Actor 116",India,"January 1, 2015",2016,TV-PG,128,"Dramas, Comedies",Enjoy this great title on Netflix!,128
+s56,TV Show,Stranger Things,Zack Snyder,"Actor 67, Actor 132",India,"January 1, 2015",2022,PG-13,5,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s57,TV Show,Squid Game,Greta Gerwig,"Actor 83, Actor 110",South Korea,"January 1, 2017",2017,TV-PG,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s58,TV Show,The Crown,Martin Scorsese,"Actor 26, Actor 192",South Korea,"January 1, 2023",2011,R,1,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s59,TV Show,Money Heist,David Fincher,"Actor 22, Actor 159",Japan,"January 1, 2023",2019,R,1,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s60,TV Show,Dark,Unknown,"Actor 91, Actor 164",South Korea,"January 1, 2015",2019,TV-MA,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s62,TV Show,Black Mirror,Zack Snyder,"Actor 84, Actor 182",Japan,"January 1, 2019",2011,TV-MA,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s63,TV Show,Bridgerton,Greta Gerwig,"Actor 65, Actor 102",South Korea,"January 1, 2018",2023,TV-14,6,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s64,TV Show,Narcos,Zack Snyder,"Actor 10, Actor 198",Japan,"January 1, 2021",2020,TV-MA,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s65,TV Show,Ozark,Greta Gerwig,"Actor 40, Actor 123",France,"January 1, 2022",2013,TV-MA,3,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s66,TV Show,The Witcher,Martin Scorsese,"Actor 72, Actor 117",Unknown,"January 1, 2020",2022,TV-14,6,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s67,TV Show,Lucifer,Greta Gerwig,"Actor 28, Actor 179",United States,"January 1, 2016",2013,TV-14,6,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s68,TV Show,Peaky Blinders,Martin Scorsese,"Actor 47, Actor 122",South Korea,"January 1, 2019",2014,TV-MA,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s70,TV Show,Mindhunter,Greta Gerwig,"Actor 58, Actor 140",Japan,"January 1, 2016",2017,TV-PG,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s71,TV Show,Arrested Development,Martin Scorsese,"Actor 97, Actor 137",South Korea,"January 1, 2015",2017,TV-PG,6,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s72,TV Show,House of Cards,Zack Snyder,"Actor 46, Actor 179",Spain,"January 1, 2021",2020,R,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s73,TV Show,Orange Is the New Black,Martin Scorsese,"Actor 38, Actor 145",South Korea,"January 1, 2023",2020,PG-13,1,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s74,TV Show,Sense8,Greta Gerwig,"Actor 18, Actor 129",Japan,"January 1, 2017",2015,R,5,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s76,TV Show,Jessica Jones,David Fincher,"Actor 79, Actor 136",France,"January 1, 2019",2014,R,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s77,TV Show,The Umbrella Academy,Zack Snyder,"Actor 39, Actor 138",Spain,"January 1, 2019",2010,R,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s78,TV Show,Sex Education,Martin Scorsese,"Actor 23, Actor 148",France,"January 1, 2018",2023,TV-PG,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s79,TV Show,Elite,Zack Snyder,"Actor 12, Actor 163",South Korea,"January 1, 2016",2022,R,4,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s80,TV Show,La Casa de Papel,Unknown,"Actor 58, Actor 180",United States,"January 1, 2016",2020,PG-13,5,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s81,TV Show,Lupin,Zack Snyder,"Actor 30, Actor 183",United Kingdom,"January 1, 2021",2020,TV-14,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s82,TV Show,Shadow and Bone,Unknown,"Actor 84, Actor 196",Spain,"January 1, 2015",2012,PG-13,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s83,TV Show,Sweet Tooth,Greta Gerwig,"Actor 90, Actor 162",France,"January 1, 2020",2019,TV-MA,1,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s84,TV Show,Maid,David Fincher,"Actor 16, Actor 158",South Korea,"January 1, 2020",2018,R,1,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s85,TV Show,Midnight Mass,David Fincher,"Actor 41, Actor 143",United Kingdom,"January 1, 2016",2012,TV-PG,5,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s86,TV Show,Arcane,Greta Gerwig,"Actor 47, Actor 138",Unknown,"January 1, 2022",2016,TV-14,3,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s89,TV Show,Heartstopper,David Fincher,"Actor 19, Actor 112",United Kingdom,"January 1, 2019",2010,TV-PG,3,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s90,TV Show,The Lincoln Lawyer,Unknown,"Actor 88, Actor 140",United States,"January 1, 2016",2012,TV-PG,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s91,TV Show,Sandman,Zack Snyder,"Actor 82, Actor 141",United States,"January 1, 2022",2012,PG-13,6,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s92,TV Show,Wednesday,Greta Gerwig,"Actor 41, Actor 177",United States,"January 1, 2023",2022,TV-MA,5,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s93,TV Show,1899,Unknown,"Actor 19, Actor 172",Japan,"January 1, 2022",2017,R,1,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s94,TV Show,The Recruit,David Fincher,"Actor 13, Actor 124",France,"January 1, 2018",2020,R,6,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s95,TV Show,Kaleidoscope,Unknown,"Actor 65, Actor 199",United Kingdom,"January 1, 2019",2020,TV-PG,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s96,TV Show,That '90s Show,Zack Snyder,"Actor 58, Actor 170",United States,"January 1, 2023",2021,TV-PG,3,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s97,TV Show,Lockwood & Co.,Greta Gerwig,"Actor 71, Actor 147",South Korea,"January 1, 2022",2013,TV-PG,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s98,TV Show,Outer Banks,Martin Scorsese,"Actor 89, Actor 172",Unknown,"January 1, 2015",2011,TV-MA,6,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s99,TV Show,You,Martin Scorsese,"Actor 13, Actor 192",France,"January 1, 2022",2023,TV-14,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s100,TV Show,Shadow and Bone,David Fincher,"Actor 65, Actor 184",United Kingdom,"January 1, 2017",2017,TV-MA,3,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s101,TV Show,BEEF,Unknown,"Actor 63, Actor 182",Unknown,"January 1, 2019",2019,R,5,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s102,TV Show,The Diplomat,Unknown,"Actor 39, Actor 141",France,"January 1, 2017",2019,TV-PG,1,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s103,TV Show,Queen Charlotte,Martin Scorsese,"Actor 38, Actor 158",Unknown,"January 1, 2022",2012,TV-PG,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s104,TV Show,FUBAR,Unknown,"Actor 9, Actor 145",Japan,"January 1, 2022",2015,TV-14,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s105,TV Show,Black Mirror,David Fincher,"Actor 26, Actor 149",Spain,"January 1, 2019",2018,TV-14,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s106,TV Show,The Lincoln Lawyer,Greta Gerwig,"Actor 47, Actor 199",South Korea,"January 1, 2020",2010,TV-MA,2,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s107,TV Show,Heartstopper,Greta Gerwig,"Actor 96, Actor 115",Unknown,"January 1, 2018",2015,PG-13,7,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s108,TV Show,One Piece,Martin Scorsese,"Actor 20, Actor 178",Japan,"January 1, 2015",2021,PG-13,3,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s109,TV Show,Sex Education,David Fincher,"Actor 98, Actor 173",France,"January 1, 2020",2015,R,5,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
+s110,TV Show,Castlevania,Unknown,"Actor 60, Actor 165",Japan,"January 1, 2021",2022,TV-14,4,"TV Dramas, TV Comedies",Enjoy this great title on Netflix!,0
